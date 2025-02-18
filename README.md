@@ -20,7 +20,7 @@ El juego se desarrolla a través de 6 pantallas principales:
 
 ## Historia
 
-Al atravesar una puerta aparentemente normal del **Instituto de Haria**, el jugador es transportado a un laberinto infinito lleno de **peligros**, **acertijos** y **trampas**. Para orientarse, el jugador cuenta con **cartas de as** dispersas a lo largo del laberinto, pero las cartas son limitadas. El objetivo es escapar antes de que el tiempo se agote, usando las cartas de manera estratégica.
+Al atravesar una puerta aparentemente normal del **Instituto de Haria**, el jugador es transportado a un laberinto infinito  el jugador cuenta con **cartas de as** dispersas a lo largo del laberinto.
 
 ## Características
 
@@ -45,7 +45,6 @@ El jugador tiene un **tiempo limitado** para escapar del laberinto. A medida que
 
 Dentro del laberinto, el jugador puede interactuar con:
 - **Personajes misteriosos**: Algunos ofrecen cartas de as o pistas a cambio de resolver acertijos o completar tareas.
-- **Objetos mágicos**: Fragmentos de cartas, piedras mágicas que detienen el tiempo, o objetos que abren nuevas rutas.
 
 ### 5. **Desafíos y Peligros**
 
