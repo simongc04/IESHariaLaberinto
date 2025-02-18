@@ -2,6 +2,22 @@
 
 **Laberinto del Instituto de Haria** es un juego de aventura y supervivencia en el que los jugadores deben explorar un misterioso instituto que en realidad es un **laberinto encantado**. Usando **cartas de as** como herramienta para orientarse y avanzar, el jugador debe escapar antes de que se acabe el **tiempo limitado**. ¡El laberinto cambia constantemente y cada decisión cuenta!
 
+### . **Pantallas del Juego**
+
+El juego se desarrolla a través de 6 pantallas principales:
+
+- **Pantalla Inicial**: Sale la pantalla inicial.
+  ![image](https://github.com/user-attachments/assets/a9b0297d-27bc-4006-9095-ad3d488e721d)
+- **Pantalla de Victoria**: Aparece cuando el jugador escapa del laberinto antes de que se acabe el tiempo.
+  ![image](https://github.com/user-attachments/assets/f8ba8f5a-9b51-4f68-9c06-2cc95515487b)
+- **Pantalla de Game Over**: Se muestra si el jugador no logra escapar antes de que se agote el tiempo.
+![image](https://github.com/user-attachments/assets/5f540a3a-46b6-4ea1-a460-5e8f8e1f1fca)
+- **Mapa IES Haria**: mapeado fuera del instituto donde puedes interactuar.
+- ![image](https://github.com/user-attachments/assets/db56726f-b065-419c-86fb-7b8c0f67e402)
+- **Laberinto IES Haria**:
+  ![image](https://github.com/user-attachments/assets/ec4d4bd1-4f79-4d05-8b88-5450696460c3)
+
+
 ## Historia
 
 Al atravesar una puerta aparentemente normal del **Instituto de Haria**, el jugador es transportado a un laberinto infinito lleno de **peligros**, **acertijos** y **trampas**. Para orientarse, el jugador cuenta con **cartas de as** dispersas a lo largo del laberinto, pero las cartas son limitadas. El objetivo es escapar antes de que el tiempo se agote, usando las cartas de manera estratégica.
